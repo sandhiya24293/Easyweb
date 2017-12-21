@@ -1833,15 +1833,15 @@ label {
 }
 .registration_form input[type="text"],.registration_form input[type="email"],.registration_form input[type="tel"],.registration_form input[type="password"]{
 	padding: 8px;
-	display: block;
+	/*display: block;*/
 	width:100%;
-	outline: none;
+	/*outline: none;*/
 	font-size: 0.8925em;
 	color: #333333;
-	-webkit-appearance: none;
-	text-transform: capitalize;
+	/*-webkit-appearance: none;*/
+	/*text-transform: capitalize;*/
 	background: #FFFFFF;
-	border: 1px solid rgb(231, 231, 231);
+	border: 1px solid black;
 	font-weight: normal;
 }
 .registration_form input[type="submit"]{
